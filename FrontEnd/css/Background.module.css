@@ -1,0 +1,130 @@
+/* Home/background.js */
+.blueImg {
+  position: fixed;
+  bottom: 0px;
+  height: 100%;
+  color: #494969;
+  z-index: -2;
+  opacity: 0.1;
+  width: 100%;
+  margin-top:10%
+}
+
+.blueImg2 {
+  background-size: cover;
+  position: fixed;
+  top: 0px;
+  right: 0px;
+  left: 0px;
+  bottom: 0px;
+  height: 100%;
+  color: #494969;
+  z-index: -1;
+  opacity: 0.20;
+  width: 100%;
+}
+
+.b{
+  background-size: cover;
+  position: fixed;
+  top: 0px;
+  right: 0px;
+  left: 80px;
+  bottom: 0px;
+  height: 50%;
+  color: #494969;
+  z-index: -1;
+  opacity: 1;
+  width: 35%;
+}
+
+.creative {
+  position: absolute;
+  width: 50%;
+  height: 100%;
+  top: -330px;
+  right: -200px;
+  bottom: 0px;
+  height: 100%;
+  color: #494969;
+  z-index: -1;
+  opacity: 0.4;
+}
+
+/* userhome.js */
+
+.blueImg4 {
+  position: absolute;
+  left: 0px;
+  height: 60%;
+  bottom: 0px;
+  height: 100%;
+  top: 0;
+  color: #494969;
+  z-index: -1;
+  opacity: 0.35;
+  width: 100%;
+}
+
+.blueImg5 {
+  position: absolute;
+  left: 0px;
+  height: 60%;
+  bottom: 0px;
+  height: 100%;
+  top: 0;
+  color: #494969;
+  z-index: -1;
+  opacity: 0.50;
+  width: 100%;
+}
+
+
+
+/* 
+@media all and (min-width: 800px) {
+  .blueImg3 {
+    display: none;
+  }
+  .blue {
+    display: none;
+  }
+}
+
+@media all and (max-width: 800px) {
+  .blueImg2 {
+    position: absolute;
+    height: 60%;
+    top: 8%;
+    bottom: 8%;
+  }
+
+  .blueImg3 {
+    position: absolute;
+    top: 0px;
+    right: 0px;
+    bottom: 0px;
+    height: 60vh;
+    color: #494969;
+    z-index: -1;
+    opacity: 0.2;
+    width: 30%;
+  }
+
+  .blueImg4 {
+    width: 100%;
+  }
+
+  .blue {
+    top: 100%;
+    left: 0;
+    opacity: 0.2;
+    z-index: -1;
+    position: absolute;
+    top: 0px;
+    right: 0px;
+    bottom: 0px;
+    height: 60%;
+    width: 50%;
+  }
+} */

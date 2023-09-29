@@ -1,0 +1,138 @@
+.otpborder{
+  position: absolute;
+  margin-left: 30%;
+  border: 2px solid black;
+  width: 50%;
+  height: 50%;
+}
+
+.tag{
+  margin-left: 8%;
+  margin-top: 10%;
+}
+
+
+.otpi{
+  position: absolute;
+  margin-left: 48%;
+  width:50%;
+  height:100%;
+}
+.presentation {
+  display: flex;
+  width: 90%;
+  margin: 10% auto;
+  align-items: center;
+}
+
+.introduction {
+  width: 50%;
+  align-items: center;
+}
+
+.intro_text h1 {
+  font-size: 44px;
+  font-weight: 900;
+  background: linear-gradient(to right, #494969, #696989);
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.spanstyle {
+  font-size: px;
+  font-weight: 900;
+  background: linear-gradient(to right, #6767bc, #7575cf);
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.intro_text p {
+  margin-top: 2px;
+  font-size: 22px;
+  color: #585772;
+}
+
+/* .cta */
+.buttons {
+  padding: 50px 0px 0px 0px;
+}
+
+/* .cta_second */
+.btn_first {
+  border: 2px solid #2dc3db;;
+  background: #2dc3db;
+  color: white;
+  width: 150px;
+  height: 50px;
+  cursor: pointer;
+  font-family: "Poppins", sans-serif;
+  font-size: 16px;
+}
+
+
+.back{
+position: absolute;
+ margin-left: 30%;
+ width: 40%;
+ height: 40%;
+ border: 2px solid black;
+}
+
+.center{
+   margin-left: 30%;
+  }
+
+/* 
+@media all and (max-width: 1250px) {
+  .presentation {
+    margin: 20% auto;
+  }
+  .intro_text p {
+    font-size: 22px;
+  }
+
+  .introduction {
+    width: 60%;
+    position: relative;
+     top: -100px; 
+  }
+}
+@media all and (max-width: 1025px) {
+  .presentation {
+    margin: 15% auto;
+  }
+  .intro_text h1 {
+    font-size: 44px;
+    margin-bottom: 20px;
+  }
+
+  .intro_text p {
+    font-size: 22px;
+    width: 100%;
+  }
+}
+
+@media all and (max-width: 900px) {
+  .introduction {
+    width: 90%;
+    margin: auto;
+  }
+}
+
+@media all and (max-width: 650px) {
+  .presentation {
+    margin: 20% auto;
+  }
+
+  .intro_text h1 {
+    font-size: 32px;
+    margin-bottom: 20px;
+    width: 95%;
+  }
+
+  .intro_text p {
+    font-size: 16px;
+    width: 90%;
+  }
+} 
+*/

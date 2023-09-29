@@ -1,0 +1,45 @@
+/*USER LOGIN CSS USERHOME.JSX FOOTER*/
+.footer_hobbie_details {
+  background: transparent;
+  /* filter: progid:DXImageTransform.Microsoft.gradient(startColorstr=#3C000000,endColorstr=#3C000000); */
+  zoom: 1;
+  margin: 0 auto;
+  width: 330px;
+  color: #03030d;
+  padding-bottom: 20px;
+}
+
+.footer {
+  margin-top: 40px;
+  margin: 2% 5%;
+  bottom: 0px;
+  background: transparent;
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr=#3C000000,endColorstr=#3C000000);
+  zoom: 1;
+  width: 90%;
+  color: #494969;
+  position: relative;
+  top: 43px;
+}
+
+
+.footer_cover {
+  position: absolute;
+  height: 40px;
+  margin-top: 40px;
+  margin-left: 5%;
+  bottom: 0px;
+  background: transparent;
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr=#3C000000,endColorstr=#3C000000);
+  zoom: 1;
+  width: 90%;
+  color: #494969;
+}
+
+@media all and (max-width: 600px) {
+
+  .footer_hobbie_details {
+    font-size: 14px;
+    padding-left: 3%;
+  }
+}
